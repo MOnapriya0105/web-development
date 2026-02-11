@@ -1,0 +1,6 @@
+let b="apple"
+var c="3"
+var price=40
+var total=3*40
+console.log(b)
+console.log(total);
