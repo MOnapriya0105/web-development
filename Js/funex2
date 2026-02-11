@@ -1,0 +1,9 @@
+var actor="Thalapathy"
+var player="Dhoni"
+var movie="Raja Rani"
+function fav(){
+    console.log("factor:"+actor)
+    console.log("fplayer:"+player)
+    console.log("fmovie:"+movie)
+}
+fav()
